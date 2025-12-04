@@ -63,7 +63,15 @@
   </a>&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
+    alt="tailwindcss" 
+    width="40" 
+    height="40"
+  />
+</a>
 </p>
 
 
