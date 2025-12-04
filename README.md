@@ -15,11 +15,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/3mrwaked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3mrwaked" height="30" width="40" /></a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/3mrwaked" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
   
-- **Email:** [your.email@example.com](mailto:your.3mrwaked2003@gmail.com)  
-- **WhatsApp:** [Click to Chat](https://wa.me/201557223441)  
+  <!-- Email -->
+  <a href="mailto:your.3mrwaked2003@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201557223441" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
